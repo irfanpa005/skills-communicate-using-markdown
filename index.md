@@ -13,4 +13,15 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
+
+- [x] client meeting
+- [ ] project1
+- [ ] send email
+
+
+
+
+
+
+
 Headings added
